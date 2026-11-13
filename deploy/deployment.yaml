@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: education-platform:0.1.0
+          image: ghcr.io/lujuejackie1202/education-platform:2a53b69e65a9d40e7d69e3b22c82675ee4c5c413
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 3780
