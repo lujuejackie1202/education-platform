@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/REPLACE_ME/education-platform.git
+    repoURL: https://github.com/lujuejackie1202/education-platform.git
     targetRevision: main
     path: deploy
   destination:
