@@ -99,7 +99,7 @@ export function loginPage({ error = '', next = '/' }) {
     body: `<section class="hero">
       <div>
         <h1>优易升学</h1>
-        <p class="lede">高职提前招生</p>
+        <p class="lede">高职提前招生 · 报考助手</p>
       </div>
       <form class="stack" method="post" action="/login">
         <input type="hidden" name="next" value="${esc(next)}">
